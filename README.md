@@ -3,3 +3,6 @@ Aqui colocarei meus treinamentos de todas as materias que estarei estudando, par
 
 teste: alterando adicionando este texto como teste e subindo via terminal
 
+testado e configurtado pelo git bash e git desktop
+
+tambem pelo vscode. 
